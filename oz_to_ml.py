@@ -1,3 +1,9 @@
+Name:		oz_to_ml.py
+Purpose:	compute the total amount of millilitres of fluids and output it to the user
+
+Author:	Wang.J
+
+Created:	date in 03/12/2020
 
 print("****** Welcome to the Oz to ml Converter ******")
 
